@@ -1,0 +1,5 @@
+ch03/mnist.pkl
+ch03/t10k-images-idx3-ubyte.gz
+ch03/t10k-labels-idx1-ubyte.gz
+ch03/train-images-idx3-ubyte.gz
+ch03/train-labels-idx1-ubyte.gz

@@ -2,8 +2,7 @@ import numpy as np
 import matplotlib.pylab as plt
 
 import sys,os
-sys.path.append(os.pardir)
-sys.path.append("..")
+sys.path.append(os.getcwd())
 from dataset.mnist import load_mnist
 
 

@@ -1,4 +1,5 @@
 import sys,os 
+sys.path.append(os.getcwd())  #父目录
 
 import numpy as np 
 from common.functions import softmax,cross_entropy_error
